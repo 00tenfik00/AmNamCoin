@@ -1,5 +1,5 @@
 aiogram==2.25.1
 aiosqlite==0.18.0
-flask==2.3.2
+flask
 threading
 logging
